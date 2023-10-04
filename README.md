@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-6
 Introduction to Java Script and DOM
 
-Hosted at: https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-AvinashChinnala1308/  https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment6-AvinashChinnala1308/blob/main/author.html   https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment6-AvinashChinnala1308/blob/main/tips.html   https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment6-AvinashChinnala1308/blob/main/cruise.html
+Hosted at: https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment6-AvinashChinnala1308/blob/main/author.html   https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment6-AvinashChinnala1308/blob/main/tips.html   https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment6-AvinashChinnala1308/blob/main/cruise.html
